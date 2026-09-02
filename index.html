@@ -33,8 +33,9 @@
         <ol>
           <li><a href="#responsibilities"><span>01</span> Federal and state roles</a></li>
           <li><a href="#state-explorer"><span>02</span> Interactive state atlas</a></li>
-          <li><a href="#regulation-table"><span>03</span> Regulation index</a></li>
-          <li><a href="#notes"><span>04</span> Notes and sources</a></li>
+          <li><a href="#enactment-trend"><span>03</span> Enactment trend</a></li>
+          <li><a href="#regulation-table"><span>04</span> Regulation index</a></li>
+          <li><a href="#notes"><span>05</span> Research and legal notice</a></li>
         </ol>
       </nav>
 
@@ -91,8 +92,18 @@
         </div>
       </section>
 
+      <section id="enactment-trend" class="section trend-section">
+        <div class="section-heading"><span class="section-number">03</span><div><span class="section-kicker">Legislative activity</span><h2>Bills enacted by year</h2></div></div>
+        <p class="section-lead">Explore the annual count of state records that include an enacted bill. Move across the plot or use the year slider to inspect individual values.</p>
+        <figure class="trend-figure">
+          <div id="enactment-chart" class="chart-mount"></div>
+          <label class="chart-year-control" for="chart-year"><span>Selected year <output id="chart-value" for="chart-year">Loading…</output></span><input id="chart-year" type="range" min="0" max="0" value="0" /></label>
+          <figcaption>Counts include records with an enacted act and use the year listed in the source workbook.</figcaption>
+        </figure>
+      </section>
+
       <section id="regulation-table" class="section table-section">
-        <div class="section-heading"><span class="section-number">03</span><div><span class="section-kicker">Regulation index</span><h2>Browse the underlying state records</h2></div></div>
+        <div class="section-heading"><span class="section-number">04</span><div><span class="section-kicker">Regulation index</span><h2>Browse the underlying state records</h2></div></div>
         <div class="table-intro">
           <p>Filter the inventory by state and legal instrument. Each row connects a bill, enacted act, or current code citation to the state’s broader legal posture.</p>
           <div class="dataset-stats" aria-label="Dataset summary"><div><strong id="stat-states">50</strong><span>states</span></div><div><strong id="stat-statutes">—</strong><span>with AV statutes</span></div><div><strong id="stat-driverless">—</strong><span>driverless pathways</span></div></div>
@@ -107,8 +118,8 @@
       </section>
 
       <section id="notes" class="notes-section">
-        <div><span class="section-kicker">04 · Notes</span><h2>Scope and use</h2></div>
-        <p>This site formats the research supplied in <em>RAV-Task1.2-50states.xlsx</em> and the accompanying Task 1.2 report. It is a research overview, not legal advice. Regulatory status can change; consult the cited state authority before making operational or compliance decisions.</p>
+        <div><span class="section-kicker">05 · Notice</span><h2>Research and legal notice</h2></div>
+        <p><strong>Information last updated September 2, 2026.</strong> This site is provided for research purposes only. All information is general in nature and does not constitute legal advice. Laws and regulations may change; consult the cited government authority and a qualified legal professional before making legal, operational, or compliance decisions.</p>
       </section>
     </main>
     <footer><p><strong>RAV Policy Atlas</strong> · Regulatory Framework and Policy Analysis</p><a href="#top">Back to top <span aria-hidden="true">↑</span></a></footer>
