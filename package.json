@@ -1,0 +1,7 @@
+{
+  "name": "rav-policy-atlas",
+  "private": true,
+  "scripts": {
+    "build": "rm -rf dist && mkdir -p dist/server dist/client dist/.openai && cp -r index.html styles.css script.js assets data dist/client/ && cp worker.js dist/server/index.js && cp .openai/hosting.json dist/.openai/hosting.json"
+  }
+}
