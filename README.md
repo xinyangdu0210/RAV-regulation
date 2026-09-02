@@ -1,4 +1,4 @@
-# RAV Policy Atlas
+# RAV Regulation Framework and Regulation Analysis
 
 A static GitHub Pages template for exploring automated-vehicle regulation across all 50 states.
 
