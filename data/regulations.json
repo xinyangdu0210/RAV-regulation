@@ -1,0 +1,1000 @@
+[
+    {
+        "state":  "Alabama",
+        "statute":  "Yes",
+        "regulation":  "No comprehensive AV-specific administrative regulation located",
+        "status":  "Driverless operation authorized by statute",
+        "bill":  "SB 226 (2024); Act 2024-453",
+        "year":  "2024",
+        "sponsor":  "Senator Gerald H. Allen",
+        "committee":  "Committee on Transportation and Energy",
+        "act":  "",
+        "code":  "Ala. Code §§ 32-9C-1–32-9C-11",
+        "driver":  "No in-vehicle safety driver required. An ADS-equipped vehicle may operate on public roads without a conventional human driver physically present if it can achieve a minimal-risk condition. Ala. Code § 32-9C-2(b).",
+        "liability":  "At least $100,000 single-limit liability coverage through insurance or approved self-insurance for a fully autonomous vehicle. Proof must be submitted to the Alabama Department of Revenue. Ala. Code § 32-9C-3. A fully autonomous vehicle operating on an on-demand autonomous vehicle network must satisfy the additional insurance requirements in § 32-9C-4.",
+        "commercial":  "Yes, for on-demand autonomous vehicle networks. Such networks may operate under Alabama transportation-network-company laws, and vehicles operating on the network must satisfy the insurance requirements in § 32-9C-4. Ala. Code § 32-9C-10.",
+        "procedure":  "",
+        "sources":  [
+                        "Alabama Legislature"
+                    ]
+    },
+    {
+        "state":  "Alaska",
+        "statute":  "No",
+        "regulation":  "No comprehensive AV-specific administrative regulation located",
+        "status":  "No enacted comprehensive AV-specific framework; legislation pending",
+        "bill":  "SB 148 (2025), pending; HB 217 (2025), pending",
+        "year":  "2025",
+        "sponsor":  "SB 148: Sen. Robert Myers; co-sponsor Sen. Elvi Gray-Jackson. HB 217: Alaska House Transportation Committee",
+        "committee":  "SB 148: Senate Transportation Committee; additionally referred to Senate State Affairs Committee\nHB 217: House Transportation Committee; additionally referred to House Community and Regional Affairs Committee",
+        "act":  "",
+        "code":  "NA",
+        "driver":  "NA",
+        "liability":  "NA",
+        "commercial":  "NA",
+        "procedure":  "",
+        "sources":  [
+                        "https://custom.statenet.com/public/resources.cgi?id=ID:bill:AK2025000H217\u0026ciq=ncsl\u0026client_md=07fa71e3b1800a4ee64874bd50497560\u0026mode=current_text",
+                        "Bill Resource"
+                    ]
+    },
+    {
+        "state":  "Arizona",
+        "statute":  "Yes",
+        "regulation":  "No comprehensive AV-specific administrative regulation located",
+        "status":  "Testing, driverless operation, and commercial passenger deployment are legally allowed",
+        "bill":  "H.B. 2813 (2021)",
+        "year":  "2021",
+        "sponsor":  "Jeff Weninger",
+        "committee":  "",
+        "act":  "",
+        "code":  "Ariz. Rev. Stat. §§ 28-9701–28-9708",
+        "driver":  "Driverless allowed. An AV may operate with a licensed human driver capable of taking control. A Level 4 or Level 5 fully autonomous vehicle may operate without a human driver after submitting a law-enforcement interaction plan and required written certification to ADOT.",
+        "liability":  "It didn\u0027t specify a spcial AV liability limit, it stated :\"The fully autonomous vehicle meets all applicable certificate of title, registration, licensing and insurance requirements of this title.”",
+        "commercial":  "Yes,A.R.S. § 28-9704 authorizes on-demand autonomous vehicle networks to operate under Arizona’s transportation-network-company framework, including passenger transportation for hire or compensation.",
+        "procedure":  "A fully autonomous vehicle may operate on public roads without a human driver only if a person submits both:\n\n1. A law enforcement interaction plan to the department of transportation and the department of public safety 2. A written statement to the department of transportation",
+        "sources":  [
+                        "https://www.azleg.gov/arsDetail/?title=28"
+                    ]
+    },
+    {
+        "state":  "Arkansas",
+        "statute":  "Yes",
+        "regulation":  "Yes, 27 CAR § 115",
+        "status":  "Autonomous and fully autonomous vehicle operation is permitted under a State Highway Commission-approved AV program",
+        "bill":  "H. B. 1562 (2021)",
+        "year":  "2021",
+        "sponsor":  "Rep. Austin McCollum — Arkansas House of Representatives",
+        "committee":  "House Public Transportation Committee; Senate Transportation, Technology and Legislative Affairs Committee.",
+        "act":  "",
+        "code":  "Arkansas Code § 27-51-2001-2006",
+        "driver":  "A human operator is required for the first six months; driverless operation and commercial service may be approved afterward",
+        "liability":  "27 CAR § 115-103. Application. (3) Proof that the autonomous vehicle program complies with the minimum liability insurance coverage requirements for a motor carrier of property under 49 C.F.R. § 387.9 as it existed on January 1, 2021;",
+        "commercial":  "Yes, Conditionally permitted under Ark. Code Ann. §§ 27-51-2002 and 27-51-2003; 27 CAR §§ 115-103 and 115-105.",
+        "procedure":  "The operator must first submit an autonomous vehicle program application and obtain approval from the Arkansas State Highway Commission.",
+        "sources":  [
+                        "https://codeofarrules.arkansas.gov/Rules/Rule?levelType=part\u0026titleID=27\u0026chapterID=224\u0026subChapterID=274\u0026partID=1010\u0026subPartID=\u0026sectionID=",
+                        "https://advance.lexis.com/documentpage/?pdmfid=1000516\u0026crid=2eb8e622-dd7c-41ad-9bd4-cc6b2c42c7b4\u0026pdistocdocslideraccess=true\u0026config=00JAA2ZjZiM2VhNS0wNTVlLTQ3NzUtYjQzYy0yYWZmODJiODRmMDYKAFBvZENhdGFsb2fXiYCnsel0plIgqpYkw9PK\u0026pddocfullpath=%2Fshared%2Fdocument%2Fstatutes-legislation%2Furn%3AcontentItem%3A5VN2-XRT0-R03M-J49F-00008-00\u0026pdcomponentid=234171\u0026pdtocnodeidentifier=ABBAAEAADAAVAAC\u0026ecomp=h2vckkk\u0026prid=90ff623d-d9bd-48cc-8241-3716ba12efc0"
+                    ]
+    },
+    {
+        "state":  "California",
+        "statute":  "Yes",
+        "regulation":  "Yes. California DMV regulations govern autonomous-vehicle testing with a safety driver, driverless testing, and deployment under Title 13 of the California Code of Regulations, Division 1, Chapter 1, Articles 3.7 and 3.8.",
+        "status":  "Testing and deployment allowed by permit. California DMV issues permits for testing with a safety driver, driverless testing, and deployment. Vehicles must operate only within the locations, conditions, and restrictions approved in the applicable DMV permit.",
+        "bill":  "S. B. 1298",
+        "year":  "2012",
+        "sponsor":  "Sen. Alex Padilla",
+        "committee":  "Senate Committee on Transportation and Housing",
+        "act":  "2012 Cal. Stat., ch. 570",
+        "code":  "Cal. Veh. Code §§ 38750–38755",
+        "driver":  "Driverless allowed with a DMV permit. Testing with a safety driver requires the driver to be seated in the driver’s seat, monitor the vehicle, and be capable of immediately taking manual control. California also permits driverless testing and deployment when the manufacturer obtains the applicable DMV permit and satisfies the approved operating conditions. Cal. Veh. Code § 38750(b)–(e); 13 CCR arts. 3.7–3.8.",
+        "liability":  "Manufacturers testing or deploying autonomous vehicles must maintain $5 million in insurance, surety bond, or self-insurance under Cal. Veh. Code § 38750. No separate $5 million AV-specific requirement is imposed on an individual private owner; the owner remains subject to California’s generally applicable vehicle insurance requirements.",
+        "commercial":  "Allowed with regulatory approvals. A manufacturer must obtain a California DMV deployment permit to deploy autonomous vehicles on public roads. A company providing autonomous passenger transportation must also obtain the applicable authorization from the California Public Utilities Commission; paid passenger service requires participation in a CPUC deployment program.",
+        "procedure":  "Testing with a safety driver: apply to the DMV for a manufacturer’s testing permit, designate and train test drivers, and provide evidence of $5 million in financial responsibility. Driverless testing: obtain a DMV driverless testing permit and submit required safety, operational-design-domain, law-enforcement interaction, and financial-responsibility information. Deployment: submit the DMV deployment application, certify compliance with federal and state safety requirements, provide testing and safety information, submit a law-enforcement interaction plan, maintain $5 million in financial responsibility, register the vehicles, and operate only within the conditions approved by the DMV.",
+        "sources":  [
+                        "California-2011-SB1298-Chaptered",
+                        "Codes Display Text",
+                        "California Code of Regulations, Chapter 1, Article 3.7 - Testing of Autonomous Vehicles | California Code of Regulations | Justia",
+                        "California Code of Regulations, Chapter 1, Article 3.8 - Deployment of Autonomous Vehicles | California Code of Regulations | Justia"
+                    ]
+    },
+    {
+        "state":  "Colorado",
+        "statute":  "Yes",
+        "regulation":  "Yes, but limited. Rule 1 of 1 CCR 204-10 specifically governs temporary special-event license plates for AV demonstrations and testing; it is not a comprehensive AV testing or deployment regulation.",
+        "status":  "AV operation is allowed when the automated driving system can comply with all applicable state and federal laws. State approval is required for testing an ADS that cannot comply with all applicable laws.",
+        "bill":  "S.B. 213 (2017)",
+        "year":  "2017",
+        "sponsor":  "Sen. Owen Hill; Sen. Dominick Moreno; Rep. Faith Winter; Rep. Jeff Bridges",
+        "committee":  "Senate Transportation Committee; House Transportation \u0026 Energy Committee",
+        "act":  "",
+        "code":  "Colo. Rev. Stat. §§ 42-4-242",
+        "driver":  "Driverless operation allowed for compliant Level 4–5 ADS vehicles.",
+        "liability":  "No AV-specific minimum insurance amount established by S.B. 17-213. Crash liability is determined under applicable state, federal, or common law; generally applicable motor-vehicle insurance laws still apply.",
+        "commercial":  "Allowed when the ADS complies with all applicable laws; no separate statewide commercial AV deployment permit is established.",
+        "procedure":  "",
+        "sources":  [
+                        "Title 42 - Vehicles and Traffic - Colorado Revised Statutes 2025",
+                        "Code of Colorado Regulations 1 CCR 204-10"
+                    ]
+    },
+    {
+        "state":  "Connecticut",
+        "statute":  "No current operational AV statute",
+        "regulation":  "NA",
+        "status":  "NA",
+        "bill":  "NA",
+        "year":  "NA",
+        "sponsor":  "NA",
+        "committee":  "NA",
+        "act":  "",
+        "code":  "NA",
+        "driver":  "NA",
+        "liability":  "NA",
+        "commercial":  "NA",
+        "procedure":  "NA",
+        "sources":  [
+
+                    ]
+    },
+    {
+        "state":  "Delaware",
+        "statute":  "No current operational AV statute",
+        "regulation":  "NA",
+        "status":  "NA",
+        "bill":  "NA",
+        "year":  "NA",
+        "sponsor":  "NA",
+        "committee":  "NA",
+        "act":  "",
+        "code":  "NA",
+        "driver":  "NA",
+        "liability":  "NA",
+        "commercial":  "NA",
+        "procedure":  "NA",
+        "sources":  [
+
+                    ]
+    },
+    {
+        "state":  "Florida",
+        "statute":  "Yes",
+        "regulation":  "No",
+        "status":  "Allowed. Fully autonomous vehicles may operate in Florida without a licensed human operator or a human physically present. On-demand autonomous vehicle networks are also authorized.",
+        "bill":  "HB 311",
+        "year":  "2019",
+        "sponsor":  "Rep. Jason Fischer",
+        "committee":  "HOUSE TRANSPORTATION \u0026 INFRASTRUCTURE SUBCOMMITTEE.",
+        "act":  "Chapter 2019-101, Laws of Florida",
+        "code":  "Fla. Stat. §§ 316.003, 316.062, 316.063, 316.065, 316.1975, 316.303, 316.305, 316.85, 319.145, 322.015, 338.2216, 339.175, 339.64, 339.83, 627.0653, 627.749, and 655.960.",
+        "driver":  "Driverless allowed. A licensed human operator is not required; a fully autonomous vehicle may operate without a human physically present; and the ADS is deemed the operator when engaged.",
+        "liability":  "at least $1 million coverage under § 627.749.",
+        "commercial":  "Commercial deployment allowed. Florida expressly authorizes on-demand autonomous vehicle networks for for-hire and compensated passenger transportation. Such networks are subject to applicable transportation-network-company requirements and the insurance requirements of Fla. Stat. § 627.749.",
+        "procedure":  "No separate AV permit or application specified. The vehicle must meet applicable federal certification requirements, comply with Florida traffic laws, possess the required failure-response or minimal-risk capability, be properly titled, registered, and insured, and comply with applicable crash-reporting requirements.",
+        "sources":  [
+                        "Bill Resource"
+                    ]
+    },
+    {
+        "state":  "Georgia",
+        "statute":  "Yes",
+        "regulation":  "No comprehensive AV-specific administrative regulation identified",
+        "status":  "Fully autonomous and driverless operation is allowed when the ADS performs the entire dynamic driving task and the vehicle can achieve a minimal-risk condition",
+        "bill":  "SB 219",
+        "year":  "2017",
+        "sponsor":  "Sen. Steve Gooch",
+        "committee":  "Senate Transportation Committee",
+        "act":  "",
+        "code":  "O.C.G.A. § 40-8-11",
+        "driver":  "Yes, driverless allowed for a qualifying fully autonomous vehicle",
+        "liability":  "SB 219 does not create a separate AV-specific dollar limit",
+        "commercial":  "Generally allowed under the statutory conditions; no separate statewide commercial AV deployment permit identified",
+        "procedure":  "No separate AV permit identified",
+        "sources":  [
+                        "Georgia General Assembly | PAW Document Page"
+                    ]
+    },
+    {
+        "state":  "Hawaii",
+        "statute":  "Yes",
+        "regulation":  "Yes, Hawaii Administrative Rules, Chapter 19-150 — Autonomous Vehicle Regulations",
+        "status":  "Autonomous-vehicle testing is allowed on public roads only with an HDOT testing permit and an in-vehicle conventional human driver",
+        "bill":  "H. B. 2590 (2019)",
+        "year":  "2019",
+        "sponsor":  "Rep. Henry J.C. Aquino",
+        "committee":  "HOUSE Committee on JUDICIARY. HOUSE Committee on CONSUMER PROTECTION AND COMMERCE. HOUSE Committee on FINANCE.",
+        "act":  "",
+        "code":  "Act 21, 2020 Haw. Sess. Laws 285 (uncodified)",
+        "driver":  "required safety driver",
+        "liability":  "Chapter 19-150 does not state a special fixed AV minimum. Permit applicant must provide evidence of commercial automobile insurance meeting Hawaii’s applicable motor-vehicle insurance laws.",
+        "commercial":  "driverless commercial deployment is not authorized under this testing framework.",
+        "procedure":  "follow the procedure listed in Hawaii Administrative Rules, Chapter 19-150 — Autonomous Vehicle Regulations.",
+        "sources":  [
+                        "HB2590 SD2",
+                        "HAR-19-150-Autonomous-Vehicle-Regulation-FINAL-7-31-2022-STANDARD-FORMAT.pdf",
+                        "https://data.capitol.hawaii.gov/sessions/sessionlaws/Years/SLH2020/SLH2020_Act21.pdf"
+                    ]
+    },
+    {
+        "state":  "Idaho",
+        "statute":  "No",
+        "regulation":  "No comprehensive AV-specific administrative regulation identified",
+        "status":  "no",
+        "bill":  "no",
+        "year":  "NA",
+        "sponsor":  "NA",
+        "committee":  "NA",
+        "act":  "",
+        "code":  "NA",
+        "driver":  "NA",
+        "liability":  "NA",
+        "commercial":  "NA",
+        "procedure":  "NA",
+        "sources":  [
+
+                    ]
+    },
+    {
+        "state":  "Illinois",
+        "statute":  "Yes, limited",
+        "regulation":  "No comprehensive AV-specific administrative regulation identified",
+        "status":  "AV testing is permitted under Executive Order 2018-13 when a licensed human driver remains in control of, or able to control, the driving task. Illinois has no comprehensive statute authorizing fully driverless commercial deployment.",
+        "bill":  "H.B. 791 (2017)",
+        "year":  "2017",
+        "sponsor":  "Rep. Tom Demmer",
+        "committee":  "HOUSE Committee on RULES",
+        "act":  "",
+        "code":  "NA",
+        "driver":  "Licensed human driver required for testing under Executive Order 2018-13; unrestricted driverless operation is not established by the current framework.",
+        "liability":  "no special AV-specific minimum amount is established. Testing vehicles must comply with Illinois’s generally applicable insurance and financial-responsibility requirements.",
+        "commercial":  "driverless commercial deployment is not authorized under this testing framework.",
+        "procedure":  "Testing entity follows the Autonomous Illinois framework administered by IDOT and must operate with a licensed human driver; no comprehensive statutory AV permit procedure exists.",
+        "sources":  [
+                        "Executive Order 2018-13",
+                        "https://custom.statenet.com/public/resources.cgi?id=ID:bill:IL2017000H791\u0026ciq=AsteigenHAV\u0026client_md=526afc44b1982253306359bc340f2613\u0026mode=current_text"
+                    ]
+    },
+    {
+        "state":  "Indiana",
+        "statute":  "no",
+        "regulation":  "No comprehensive AV-specific administrative regulation identified",
+        "status":  "NA",
+        "bill":  "NA",
+        "year":  "NA",
+        "sponsor":  "NA",
+        "committee":  "NA",
+        "act":  "",
+        "code":  "NA",
+        "driver":  "NA",
+        "liability":  "NA",
+        "commercial":  "NA",
+        "procedure":  "NA",
+        "sources":  [
+
+                    ]
+    },
+    {
+        "state":  "Iowa",
+        "statute":  "Yes",
+        "regulation":  "Yes, Iowa Department of Transportation (761) Iowa Administrative Code, Chapter 380",
+        "status":  "Driverless-capable vehicles may operate on Iowa public highways without a conventional human driver when they satisfy statutory safety and operational requirements.",
+        "bill":  "Senate File 302 (2019)",
+        "year":  "2019",
+        "sponsor":  "Iowa Senate Transportation Committee",
+        "committee":  "transportation committee",
+        "act":  "",
+        "code":  "Iowa Code §§ 321.514–321.519",
+        "driver":  "Driverless operation allowed. A conventional human driver is not required when the vehicle satisfies Iowa Code § 321.515.",
+        "liability":  "no separate requirment, the vehicle must be covered by financial responsibility satisfying Iowa law.",
+        "commercial":  "Iowa Code § 321.518 authorizes an on-demand driverless-capable vehicle network to facilitate the transportation of persons or goods, including transportation for hire and public transportation.",
+        "procedure":  "Register the vehicle as driverless-capable and record its SAE automation level with Iowa DOT.",
+        "sources":  [
+                        "Iowa Legislature - Rule Listings",
+                        "Iowa Legislature - Code Section Listings",
+                        "The statutes, enacted by the Iowa Legislature, establish the legal framework for driverless-capable vehicle operation, insurance, crash responsibilities, commercial driverless networks, and Iowa DOT’s regulatory authority. The administrative regulations, adopted by the Iowa Department of Transportation, provide the detailed implementation requirements, including vehicle identification, recording SAE automation levels, operational restrictions, reporting, and testing exemptions."
+                    ]
+    },
+    {
+        "state":  "Kansas",
+        "statute":  "Yes",
+        "regulation":  "No separate comprehensive AV-specific administrative regulation identified",
+        "status":  "Driverless-capable vehicles may operate on public roads with the ADS engaged when statutory safety and legal requirements are satisfied",
+        "bill":  "S. B. 313 (2022)",
+        "year":  "2022",
+        "sponsor":  "Senate Committee on Federal and State Affairs , committee-sponsored bill",
+        "committee":  "SENATE Committee on TRANSPORTATION.",
+        "act":  "",
+        "code":  "K.S.A. §§ 8-2901–8-2911",
+        "driver":  "A driverless-capable vehicle may operate on the public highways of this state without a conventional human driver with the automated driving system engaged if the vehicle meets all conditions.",
+        "liability":  "Vehicle must satisfy applicable Kansas financial-responsibility and insurance laws; no separate AV-specific minimum is stated",
+        "commercial":  "Allowed. An on-demand driverless-capable vehicle network may transport persons or goods, including transportation for hire and public transportation, subject to the operating conditions in K.S.A. § 8-2902 and other applicable laws. See K.S.A. §§ 8-2901(g), 8-2902, and 8-2905",
+        "procedure":  "",
+        "sources":  [
+                        "https://kslegislature.gov/b2025_26/laws/008_000_0000_chapter/008_029_0000_article/"
+                    ]
+    },
+    {
+        "state":  "Kentucky",
+        "statute":  "Yes",
+        "regulation":  "No",
+        "status":  "Fully autonomous vehicles may operate without a human driver when statutory conditions are satisfied.",
+        "bill":  "H. B. 7 (2024)",
+        "year":  "2024",
+        "sponsor":  "Rep. Josh Bray",
+        "committee":  "HOUSE Committee on COMMITTEES.",
+        "act":  "2024 Kentucky Acts, Chapter 176",
+        "code":  "KRS §§ 186.760–186.779",
+        "driver":  "Driverless operation allowed; however, through July 31, 2026, a fully autonomous vehicle weighing more than 62,000 pounds, including any towed unit, must have an appropriately credentialed human driver present (KRS § 186.763(2)).",
+        "liability":  "Non-motor-carrier driverless AVs must maintain at least $1 million in single-limit liability coverage; motor-carrier AVs must meet KRS 281.655 insurance requirements (KRS § 186.766)",
+        "commercial":  "Allowed, including operation as a motor carrier, subject to KRS Chapter 281 and other statutory requirements.",
+        "procedure":  "Complete the regular Kentucky title and registration process and have the records identify the vehicle as fully autonomous required by KRS §§ 186.769. Before beginning driverless operation, the manufacturer or owner must submit a law-enforcement interaction plan to the Kentucky Transportation Cabinet and Kentucky State Police (KRS § 186.763)",
+        "sources":  [
+                        "https://apps.legislature.ky.gov/law/statutes/chapter.aspx?id=38025",
+                        "CHAPTER 176 ( HB 7, Meade and others )"
+                    ]
+    },
+    {
+        "state":  "Louisiana",
+        "statute":  "Yes",
+        "regulation":  "No",
+        "status":  "Louisiana allows driverless operation of qualifying autonomous commercial motor vehicles.",
+        "bill":  "H. B. 455 (2017)",
+        "year":  "2017",
+        "sponsor":  "Representative Terry Landry",
+        "committee":  "HOUSE Committee on TRANSPORTATION, HIGHWAYS AND PUBLIC WORKS.",
+        "act":  "Act No. 232 of the 2019 Regular Session",
+        "code":  "La. R.S. §§ 32:400.1-32:400.8",
+        "driver":  "Driverless operation allowes:  an autonomous commercial motor vehicle may operate in this state without a conventional driver physically present in the vehicle if the autonomous commercial motor vehicle meets all criteria. (La. R.S. § 32:400.3)",
+        "liability":  "not less than two million dollars (La. R.S. § 32:400.3)",
+        "commercial":  "Allowed, subject to statutory requirements",
+        "procedure":  "",
+        "sources":  [
+                        "Bill Resource",
+                        "https://legis.la.gov/legis/Law.aspx?p=y\u0026d=1148306"
+                    ]
+    },
+    {
+        "state":  "Maine",
+        "statute":  "Yes, limited",
+        "regulation":  "17-229 Code of Mainr Rule (C.M.R.) ch. 800",
+        "status":  "AV testing and pilot projects are allowed on public ways only with MaineDOT authorization. Maine does not provide general unrestricted commercial driverless deployment.",
+        "bill":  "H. P. 1204",
+        "year":  "2017",
+        "sponsor":  "Rep. Heather Sanborn",
+        "committee":  "JOINT Committee on TRANSPORTATION.",
+        "act":  "Resolve 2017, Chapter 46",
+        "code":  "NA",
+        "driver":  "Driverless testing may be approved. The applicant must disclose whether an onboard human operator will be present and describe the in-vehicle, remote, or automated fallback system.",
+        "liability":  "At least $5 million per occurrence through liability insurance, self-insurance, or a surety bond.",
+        "commercial":  "Not expressly authorized. No general commercial AV or on-demand AV network authorization is established.",
+        "procedure":  "Apply to MaineDOT for an autonomous-vehicle pilot permit under 17-229 C.M.R. Chapter 800. Submit applicant, vehicle, ADS, operational-design-domain, proposed-route, testing-schedule, safety-operator, fallback, emergency-response, cybersecurity, reporting, and insurance information. Demonstrate at least $5 million in financial responsibility per occurrence. Testing may begin only after MaineDOT evaluates and authorizes the pilot and any required conditions are satisfied.",
+        "sources":  [
+                        "https://custom.statenet.com/public/resources.cgi?id=ID:bill:ME2017000H1204\u0026ciq=ncsl\u0026client_md=69cc78ce6a23e4ebc76b3cf658017877\u0026mode=current_text",
+                        "RESOLVE Chapter 46, Resolve, To Establish the Commission on Autonomous Vehicles and To Allow the Testing, Demonstration and Deployment of Automated Driving Systems",
+                        "https://www.law.cornell.edu/regulations/maine/department-17/division-229/chapter-800"
+                    ]
+    },
+    {
+        "state":  "Maryland",
+        "statute":  "No current operational AV statute",
+        "regulation":  "MDOT MVA testing-permit guidance",
+        "status":  "Public-road AV testing allowed with an MDOT MVA permit; general driverless operation is not authorized",
+        "bill":  "NA",
+        "year":  "",
+        "sponsor":  "NA",
+        "committee":  "NA",
+        "act":  "NA",
+        "code":  "NA",
+        "driver":  "Permitted testing with an in-vehicle operator; no general driverless deployment authorization.",
+        "liability":  "For testing: at least $5 million in financial responsibility; each test vehicle must carry motor-vehicle insurance",
+        "commercial":  "no",
+        "procedure":  "Submit EOI to MDOT MVA → agency consultation → submit HAV Testing Application and required safety, vehicle, operator and insurance information → obtain authorization and a separate permit for each test vehicle → testing and reporting",
+        "sources":  [
+                        "Permit Process for Testing HAVs"
+                    ]
+    },
+    {
+        "state":  "Massachusetts",
+        "statute":  "No",
+        "regulation":  "Yes, Executive Order No. 572 (2016)",
+        "status":  "Public-road testing is allowed only with MassDOT approval",
+        "bill":  "NA",
+        "year":  "NA",
+        "sponsor":  "Charles Baker",
+        "committee":  "Governor",
+        "act":  "NA",
+        "code":  "NA",
+        "driver":  "Safety driver required for approved public-road testing.",
+        "liability":  "Proof of insurance required. The applicant must maintain all insurance required by applicable Massachusetts law; no AV-specific minimum coverage amount is stated in the MassDOT testing requirements.",
+        "commercial":  "Not expressly authorized.",
+        "procedure":  "Obtain MassDOT approval before testing on public ways. Submit the ADS testing application, testing plan, and memorandum of agreement, including information about the applicant, vehicles, ADS, trained safety drivers, proposed roads, insurance, safety procedures, crash reporting, cybersecurity, and coordination with municipalities and law enforcement.",
+        "sources":  [
+                        "https://www.mass.gov/guides/testing-automated-driving-systems-in-massachusetts",
+                        "https://www.mass.gov/executive-orders/no-572-to-promote-the-testing-and-deployment-of-highly-automated-driving-technologies"
+                    ]
+    },
+    {
+        "state":  "Michigan",
+        "statute":  "yes",
+        "regulation":  "No",
+        "status":  "Fully autonomous vehicles may operate on public roads, including without a human occupant, subject to Michigan Vehicle Code requirements. Testing, platooning, and on-demand automated vehicle networks are also authorized.",
+        "bill":  "S. B. 995",
+        "year":  "2016",
+        "sponsor":  "Sen. Mike Kowall, Michigan State Senator",
+        "committee":  "Senate Committee on Economic Development and International Investment",
+        "act":  "Public Act 332 of 2016",
+        "code":  "Mich. Comp. Laws §§ 257.2b, 257.204a, \n257.602b, 257.643, 257.643a, 257.665",
+        "driver":  "Driverless allowed.",
+        "liability":  "Eligible manufacturers participating in manufacturer-operated AV programs must maintain at least $10,000,000 in insurance, surety bond, or self-insurance and submit evidence to the department. MCL § 257.2b(12)(c).",
+        "commercial":  "Allowed. An on-demand automated motor vehicle network may operate in Michigan, including the commercial transportation of passengers or goods. MCL § 257.606b(1)",
+        "procedure":  "No AV-specific permit or application form required under MCL § 257.665. The manufacturer or operator must satisfy the statutory testing and operating conditions and comply with applicable vehicle registration, insurance, and traffic laws.",
+        "sources":  [
+                        "2016-PA-0332.pdf",
+                        "MCL - Index of Chapter 257 - Michigan Legislature"
+                    ]
+    },
+    {
+        "state":  "Minnesota",
+        "statute":  "No",
+        "regulation":  "NA",
+        "status":  "NA",
+        "bill":  "NA",
+        "year":  "NA",
+        "sponsor":  "NA",
+        "committee":  "NA",
+        "act":  "NA",
+        "code":  "NA",
+        "driver":  "NA",
+        "liability":  "NA",
+        "commercial":  "NA",
+        "procedure":  "NA",
+        "sources":  [
+
+                    ]
+    },
+    {
+        "state":  "Mississippi",
+        "statute":  "Yes",
+        "regulation":  "No separate administrative regulation identified.",
+        "status":  "Fully autonomous vehicles may operate on public roads without a human driver when the ADS is engaged and statutory conditions are satisfied.",
+        "bill":  "HB 1003",
+        "year":  "2023",
+        "sponsor":  "Rep. Charles Busby",
+        "committee":  "HOUSE Committee on TRANSPORTATION.",
+        "act":  "2023 Miss. Laws ch. 443",
+        "code":  "Miss. Code Ann. §§ 63-35-1–63-35-25",
+        "driver":  "Driverless allowed. A fully autonomous vehicle may operate on public roads without a human driver when the ADS is engaged and the requirements of Miss. Code Ann. § 63-35-5 are satisfied.",
+        "liability":  "Before driverless operation, file satisfactory proof of financial responsibility with the Mississippi Department of Public Safety; no separate AV-specific coverage amount is stated.",
+        "commercial":  "Allowed. On-demand AV networks, for-hire passenger transportation, and fully autonomous commercial motor vehicles are expressly permitted.",
+        "procedure":  "Before driverless operation, submit a law-enforcement interaction plan and proof of financial responsibility to DPS; title and register the vehicle as fully autonomous with the Department of Revenue; and satisfy traffic-law, federal-certification, and minimal-risk-condition requirements.",
+        "sources":  [
+                        "Bill Resource",
+                        "Mississippi Code Title 63, Chapter 35 (2025) - Mississippi Fully Autonomous Vehicle Enabling (MS FAVE) Act of 2023 :: 2025 Mississippi Code :: U.S. Codes and Statutes :: U.S. Law :: Justia",
+                        "Mississippi Code Title 63, Chapter 35 (2025) - Mississippi Fully Autonomous Vehicle Enabling (MS FAVE) Act of 2023 :: 2025 Mississippi Code :: U.S. Codes and Statutes :: U.S. Law :: Justia"
+                    ]
+    },
+    {
+        "state":  "Missouri",
+        "statute":  "No",
+        "regulation":  "NA",
+        "status":  "NA",
+        "bill":  "NA",
+        "year":  "NA",
+        "sponsor":  "NA",
+        "committee":  "NA",
+        "act":  "NA",
+        "code":  "NA",
+        "driver":  "NA",
+        "liability":  "NA",
+        "commercial":  "NA",
+        "procedure":  "NA",
+        "sources":  [
+
+                    ]
+    },
+    {
+        "state":  "Montana",
+        "statute":  "Yes",
+        "regulation":  "No",
+        "status":  "Allowed with restrictions. Levels 1–3 may operate on public highways. Levels 4–5, including driverless vehicles, may operate subject to limitations adopted by the Montana Departments of Transportation and Justice.",
+        "bill":  "S. B. 67",
+        "year":  "2025",
+        "sponsor":  "Sen. Denley Loge, by request of the Transportation Interim Committee",
+        "committee":  "SENATE Committee on HIGHWAYS AND TRANSPORTATION",
+        "act":  "2025 Mont. Laws ch. 355 — Montana Automated Driving Systems Act",
+        "code":  "Mont. Code Ann. Title 61, Chapter 6, Part 4",
+        "driver":  "Not expressly specified",
+        "liability":  "No separate AV-specific insurance amount.",
+        "commercial":  "Not expressly authorized or regulated.",
+        "procedure":  "No separate AV permit or application is specified",
+        "sources":  [
+                        "Bill Resource",
+                        "CH0355.pdf",
+                        "Part 4. Montana Automated Driving Systems Requirement Act - Table of Contents, Title 61, Chapter 6, MCA"
+                    ]
+    },
+    {
+        "state":  "Nebraska",
+        "statute":  "Yes",
+        "regulation":  "No separate AV-specific administrative regulation identified.",
+        "status":  "Allowed. Automated-driving-system-equipped vehicles may operate on Nebraska public roads. Driverless-capable vehicles may operate without a conventional human driver when statutory conditions are met.",
+        "bill":  "L. B. 989",
+        "year":  "2018",
+        "sponsor":  "Sen. Anna Wishart",
+        "committee":  "LEGISLATIVE Committee on TRANSPORTATION and TELECOMMUNICATIONS",
+        "act":  "Laws 2018, L.B. 989",
+        "code":  "Neb. Rev. Stat. §§ 60-3301–60-3311",
+        "driver":  "Driverless allowed. A driverless-capable vehicle may operate without a conventional human driver physically present if it meets the conditions in Neb. Rev. Stat. § 60-3302.",
+        "liability":  "No separate AV-specific coverage amount is stated. Before operation, submit proof of insurance or self-insurance satisfactory to the Nebraska DMV under § 60-3304",
+        "commercial":  "Expressly allowed. A person may operate an on-demand driverless-capable vehicle network for transporting persons or goods, including for-hire, shared-ride, and public transportation.",
+        "procedure":  "No separate AV permit is specified.Before operation, submit proof of insurance or self-insurance to the Nebraska DMV, comply with the safety conditions in § 60-3302, and satisfy applicable title and registration requirements.",
+        "sources":  [
+                        "https://custom.statenet.com/public/resources.cgi?id=ID:bill:NE2017000L989\u0026ciq=ncsl\u0026client_md=bfad91aac932cb3ab32e2f93d294c8d2\u0026mode=current_text",
+                        "LB989.pdf",
+                        "https://nebraskalegislature.gov/laws/laws-index/chap60-full.html"
+                    ]
+    },
+    {
+        "state":  "Nevada",
+        "statute":  "Yes",
+        "regulation":  "Yes, NAC Chapter 482A contains AV-specific regulations governing testing certificates, testing license plates, certificates of compliance, and autonomous-vehicle certification facilities.",
+        "status":  "Testing and deployment allowed. Under NRS 482A.200, a human driver is not required when a fully autonomous vehicle is being operated by its automated driving system. Commercial passenger transportation using fully autonomous vehicles is authorized through an autonomous vehicle network company, subject to a permit issued by the Nevada Transportation Authority under NRS Chapter 706B and NAC 706B.300–706B.310.",
+        "bill":  "A.B. 511",
+        "year":  "2011",
+        "sponsor":  "Assembly Committee on Transportation — committee-sponsored bill",
+        "committee":  "Assembly Committee on Transportation",
+        "act":  "2011 Nev. Stat., ch. 472, page2873",
+        "code":  "Nev. Rev. Stat. ch. 482A and 706B",
+        "driver":  "Driverless allowed. Under NRS 482A.070 and NRS 482A.200, a fully autonomous vehicle may be tested or operated with the automated driving system engaged and without a human driver, provided it meets the statutory safety requirements, including the ability to achieve a minimal-risk condition.",
+        "liability":  "Testing requires at least $5,000,000 in insurance, self-insurance, cash deposit, surety bond, or other approved security under NRS 482A.060. An autonomous vehicle network company must maintain at least $1,500,000 per accident while providing transportation services under NRS 706B.300.",
+        "commercial":  "Expressly allowed for passenger transportation. Under NRS 706B.110, an autonomous vehicle network company may not conduct business in Nevada unless it holds a valid permit issued by the Nevada Transportation Authority. The permit application requirements are provided in NAC 706B.300.",
+        "procedure":  "Private/general operation: The manufacturer, ADS developer, or licensed certification facility must submit a certificate of compliance to the Nevada DMV, and the owner/operator must register the vehicle. Testing additionally requires $5 million in financial responsibility and DMV testing certificates and plates. Commercial passenger transportation requires an autonomous vehicle network company permit from the Nevada Transportation Authority, applicable application fees, at least $1.5 million per-accident insurance, vehicle inspections and markings, and compliance with reporting and passenger-protection requirements.",
+        "sources":  [
+                        "AB511_R3.pdf",
+                        "2011 Statutes of Nevada, Pages 2763-2886",
+                        "2011 Statutes of Nevada, Pages 2763-2886",
+                        "NRS: CHAPTER 482A - AUTONOMOUS VEHICLES",
+                        "NRS: CHAPTER 706B - AUTONOMOUS VEHICLE NETWORK COMPANIES",
+                        "https://www.leg.state.nv.us/NAC/NAC-482A.html",
+                        "NAC: CHAPTER 706B - AUTONOMOUS VEHICLE NETWORK COMPANIES"
+                    ]
+    },
+    {
+        "state":  "New Hampshire",
+        "statute":  "Yes",
+        "regulation":  "No",
+        "status":  "Testing and deployment allowed; fully driverless vehicles authorized",
+        "bill":  "SB 216",
+        "year":  "2019",
+        "sponsor":  "Sen. David Watters",
+        "committee":  "SENATE Committee on TRANSPORTATION.",
+        "act":  "2019 N.H. Laws, Chapter 310",
+        "code":  "N.H. Rev. Stat. Ann. § § 241, 242",
+        "driver":  "Driverless allowed per RSA 242:1, IX",
+        "liability":  "Testing: At least $5 million in financial responsibility through insurance, a bond, or another DMV-approved financial instrument, under N.H. Rev. Stat. Ann. § 242:1, III(b)(7).",
+        "commercial":  "",
+        "procedure":  "Driverless testing requires DMV notice, minimal-risk acknowledgment, and an emergency-response guide under RSA 242:1, V. General driverless deployment requires compliance with RSA 242:1, IX",
+        "sources":  [
+                        "Bill Resource",
+                        "billText.aspx",
+                        "https://gc.nh.gov/rsa/html/NHTOC/NHTOC-XX.htm"
+                    ]
+    },
+    {
+        "state":  "New Jersey",
+        "statute":  "No",
+        "regulation":  "NA",
+        "status":  "NA",
+        "bill":  "NA",
+        "year":  "NA",
+        "sponsor":  "NA",
+        "committee":  "NA",
+        "act":  "NA",
+        "code":  "NA",
+        "driver":  "NA",
+        "liability":  "NA",
+        "commercial":  "NA",
+        "procedure":  "NA",
+        "sources":  [
+
+                    ]
+    },
+    {
+        "state":  "New Mexico",
+        "statute":  "Yes",
+        "regulation":  "Yes (18.24.1 NMAC)",
+        "status":  "Testing allowed under an NMDOT notification framework. Driverless testing is allowed if the additional certification requirements are met. General commercial deployment is not expressly authorized or regulated.",
+        "bill":  "HB 270",
+        "year":  "2021",
+        "sponsor":  "Rep. Harry Garcia",
+        "committee":  "HOUSE Committee on TRANSPORTATION, PUBLIC WORKS \u0026 CAPITAL IMPROVEMENTS.",
+        "act":  "2021 N.M. Laws, Chapter 114",
+        "code":  "NMSA 1978 §§ 66-7-12, 66-7-13",
+        "driver":  "Driverless allowed.",
+        "liability":  "Testing requires at least $5 million in liability coverage under 18.24.1NMAC.",
+        "commercial":  "Not expressly authorized or regulated.",
+        "procedure":  "Submit the driverless-operation certification under 18.24.1.9(D), law-enforcement protocol under 18.24.1.10, and notification information under 18.24.1.12; NMDOT issues an acknowledgment receipt under 18.24.1.13.",
+        "sources":  [
+                        "Bill Resource",
+                        "https://www.srca.nm.gov/parts/title18/18.024.0001.html"
+                    ]
+    },
+    {
+        "state":  "New York",
+        "statute":  "Yes",
+        "regulation":  "No separate codified AV regulation identified; NY DMV administers a testing-permit program",
+        "status":  "Testing and demonstration only. Autonomous vehicles may operate on New York public roads only under an approved DMV testing/demonstration permit and with a licensed driver behind the wheel.",
+        "bill":  "S.B. 2005 Part FF",
+        "year":  "2017",
+        "sponsor":  "Office of the Governor",
+        "committee":  "SENATE Committee on FINANCE",
+        "act":  "Part FF of Chapter 55 of the Laws of 2017",
+        "code":  "Uncodified",
+        "driver":  "Safety driver required. A licensed driver must remain behind the wheel and be prepared to take control. Fully driverless testing is not authorized under the current permit program.",
+        "liability":  "At least $5 million for ordinary approved tests",
+        "commercial":  "Not authorized. The existing law and DMV program cover testing and demonstration, not unrestricted commercial driverless deployment.",
+        "procedure":  "Apply to the DMV, provide a law-enforcement interaction plan, arrange police supervision, meet vehicle standards, and provide financial security.",
+        "sources":  [
+                        "Bill Resource",
+                        "A7744"
+                    ]
+    },
+    {
+        "state":  "North Carolina",
+        "statute":  "Yes",
+        "regulation":  "No",
+        "status":  "Allowed. Fully autonomous vehicles may operate on public highways when the statutory requirements are met.",
+        "bill":  "H.B 469",
+        "year":  "2017",
+        "sponsor":  "Reps. Phil Shepard",
+        "committee":  "HOUSE Committee on TRANSPORTATION",
+        "act":  "Session Law 2017-166",
+        "code":  "N.C. Gen. Stat. §§ 20-400–20-403",
+        "driver":  "Driverless allowed. Per § 20‑401",
+        "liability":  "no separate AV-specific dollar amount.",
+        "commercial":  "Not specifically addressed.",
+        "procedure":  "No separate AV application or deployment approval is specified",
+        "sources":  [
+                        "https://custom.statenet.com/public/resources.cgi?id=ID:bill:NC2017000H469\u0026ciq=AsteigenHAV\u0026client_md=27e1a253660e6b6e7a1f22b5e06a6fdb\u0026mode=current_text",
+                        "SL 2017-166 (HB 469)",
+                        "Chapter 20 - Article 18"
+                    ]
+    },
+    {
+        "state":  "North Dakota",
+        "statute":  "Yes",
+        "regulation":  "No separate AV-specific administrative regulation identified",
+        "status":  "Allowed. Autonomous vehicles may operate on public highways when they comply with registration, title, insurance, and other applicable legal requirements.",
+        "bill":  "H. B. 1418",
+        "year":  "2019",
+        "sponsor":  "Rep. Dan Ruby",
+        "committee":  "HOUSE Committee on TRANSPORTATION.",
+        "act":  "2019 N.D. Sess. Laws ch. 302",
+        "code":  "N.D. Cent. Code Chapter 8-12 and § 39-01-01.2",
+        "driver":  "Driverless allowed. Under § 39-01-01.2(3).",
+        "liability":  "no separate AV-specific dollar amount.",
+        "commercial":  "Expressly allowed. Under §§ 8-12-01(3) and 8-12-02, a person may operate an on-demand autonomous vehicle network to transport persons or goods, including for-hire, compensated, public, and shared-ride transportation.",
+        "procedure":  "No separate AV permit or application is specified",
+        "sources":  [
+                        "Bill Resource",
+                        "https://ndlegis.gov/assembly/66-2019/session-laws/documents/mtrvh.pdf",
+                        "North Dakota Century Code Title 8, Chapter 8-12 (2025) - Autonomous Vehicles :: 2025 North Dakota Century Code :: U.S. Codes and Statutes :: U.S. Law :: Justia",
+                        "North Dakota Century Code Title 39, Chapter 39-01 (2025) - Definitions and General Provisions :: 2025 North Dakota Century Code :: U.S. Codes and Statutes :: U.S. Law :: Justia"
+                    ]
+    },
+    {
+        "state":  "Ohio",
+        "statute":  "No",
+        "regulation":  "Yes — Executive Orders 2018-04K",
+        "status":  "AV testing is allowed on Ohio public roads under the executive-order framework and applicable general motor-vehicle laws.",
+        "bill":  "NA",
+        "year":  "NA",
+        "sponsor":  "John Kasich",
+        "committee":  "Governor",
+        "act":  "NA",
+        "code":  "NA",
+        "driver":  "A designated operator is required, but the operator does not necessarily have to be physically inside the vehicle.",
+        "liability":  "Proof of insurance must be submitted when registering the testing program with DriveOhio. The executive order does not create a separate AV-specific dollar amount.",
+        "commercial":  "Not expressly authorized.",
+        "procedure":  "Register the testing organization and vehicles with DriveOhio; provide testing-location, vehicle, operator, insurance, and safety information; maintain a designated operator; comply with traffic laws; and report crashes and violations.",
+        "sources":  [
+                        "https://drive.ohio.gov/about/policy/exec-order-2018-04k"
+                    ]
+    },
+    {
+        "state":  "Oklahoma",
+        "statute":  "Yes",
+        "regulation":  "no",
+        "status":  "Fully autonomous vehicles may operate on Oklahoma public roads without a human driver when statutory conditions are satisfied",
+        "bill":  "S. B. 1541",
+        "year":  "2022",
+        "sponsor":  "Sen. Paul Rosino",
+        "committee":  "SENATE Committee on TRANSPORTATION",
+        "act":  "2022 Oklahoma Session Laws, Chapter 132",
+        "code":  "Oklahoma Statutes Title 47, §§ 1701–1711",
+        "driver":  "no human driver is required when the ADS is engaged and statutory conditions are met",
+        "liability":  "At least $1 million in insurance or self-insurance before operating without a human driver (§47-1704)",
+        "commercial":  "Allowed, including fully autonomous commercial vehicles and on-demand AV networks transporting passengers or goods source (§47-1706)",
+        "procedure":  "Meet operational and federal-safety conditions → submit law-enforcement interaction plan to DPS → submit proof of at least $1 million financial responsibility → properly title and register vehicle as fully autonomous → begin operation",
+        "sources":  [
+                        "os47.pdf",
+                        "SB1541 ENR.PDF"
+                    ]
+    },
+    {
+        "state":  "Oregon",
+        "statute":  "NO",
+        "regulation":  "No",
+        "status":  "No enacted law expressly authorizing fully autonomous driving; ODOT is willing to coordinate with companies interested in bringing AVs to Oregon.",
+        "bill":  "NA",
+        "year":  "NA",
+        "sponsor":  "NA",
+        "committee":  "NA",
+        "act":  "NA",
+        "code":  "NA",
+        "driver":  "NA",
+        "liability":  "NA",
+        "commercial":  "NA",
+        "procedure":  "Contact ODOT’s Office of Innovative Funding; voluntary testing notification and agency coordination are available, but this is not a permit or statutory authorization.",
+        "sources":  [
+                        "https://www.oregon.gov/odot/programs/pages/cav.aspx"
+                    ]
+    },
+    {
+        "state":  "Pennsylvania",
+        "statute":  "Yes",
+        "regulation":  "No separate AV-specific administrative regulation identified; PennDOT implements the statute through Certificate of Compliance guidelines and forms",
+        "status":  "Driverless and commercial HAV operation allowed",
+        "bill":  "H. B. 2398",
+        "year":  "2022",
+        "sponsor":  "Rep. Donna Oberlander",
+        "committee":  "HOUSE Committee on TRANSPORTATION.",
+        "act":  "Act 130 of 2022",
+        "code":  "75 Pa. Cons. Stat. §§ 8501–8510.5",
+        "driver":  "Driverless allowed. No onboard safety driver is required when the ADS is engaged and the vehicle complies with § 8508. Remote-driver operation is also permitted.",
+        "liability":  "$1,000,000 per accident for death, bodily injury, and property damage to a third party per 75 Pa.C.S. § 8508(f)(1)",
+        "commercial":  "Allowed. Commercial motor-carrier HAVs may operate with or without a human driver, and licensed transportation-network companies may use certificate holders’ HAVs, subject to applicable commercial-vehicle and Public Utility Commission laws. See 75 Pa.C.S. § 8509.",
+        "procedure":  "Obtain a PennDOT Certificate of Compliance through self-certification. Submit applicant and vehicle information, proof of registration and insurance, a safety-management plan, NHTSA documentation, and other required records. The HAV must be titled as an HAV, and the certificate holder must provide written notice to each municipality at least 10 days before operations. See 75 Pa.C.S. §§ 8504, 8506–8508.",
+        "sources":  [
+                        "Title 75 - The Official Website of the Pennsylvania General Assembly"
+                    ]
+    },
+    {
+        "state":  "Rhode Island",
+        "statute":  "No",
+        "regulation":  "NA",
+        "status":  "NA",
+        "bill":  "NA",
+        "year":  "NA",
+        "sponsor":  "NA",
+        "committee":  "NA",
+        "act":  "NA",
+        "code":  "NA",
+        "driver":  "NA",
+        "liability":  "NA",
+        "commercial":  "NA",
+        "procedure":  "NA",
+        "sources":  [
+
+                    ]
+    },
+    {
+        "state":  "South Carolina",
+        "statute":  "No",
+        "regulation":  "NA",
+        "status":  "NA",
+        "bill":  "NA",
+        "year":  "NA",
+        "sponsor":  "NA",
+        "committee":  "NA",
+        "act":  "NA",
+        "code":  "NA",
+        "driver":  "NA",
+        "liability":  "NA",
+        "commercial":  "NA",
+        "procedure":  "NA",
+        "sources":  [
+
+                    ]
+    },
+    {
+        "state":  "South Dakota",
+        "statute":  "Yes",
+        "regulation":  "No separate AV-specific regulation identified",
+        "status":  "Fully autonomous vehicles may operate on public roads without a human driver if the statutory requirements are met. Commercial AV operation and on-demand autonomous vehicle networks are allowed.",
+        "bill":  "H.B 1095",
+        "year":  "2024",
+        "sponsor":  "Rep. Roger Chase",
+        "committee":  "To HOUSE Committee on COMMERCE and ENERGY.",
+        "act":  "2024 South Dakota Session Laws, Chapter 122",
+        "code":  "SDCL §§ 32-41-1 through 32-41-12",
+        "driver":  "Driverless allowed. A fully autonomous vehicle may operate without a human driver while the ADS is engaged. Per SDCL §32-31-2",
+        "liability":  "no separate AV-specific dollar amount.",
+        "commercial":  "commercial deployment allowed under SDCL Chapter 32-41-6",
+        "procedure":  "Register and title the vehicle under SDCL Chapter 32-5, submit its SAE automation level to the Department of Revenue, and maintain proof of financial responsibility under Chapter 32-35. See SDCL §§ 32-41-4 and 32-41-7. The vehicle must also satisfy the operational requirements in § 32-41-2.",
+        "sources":  [
+                        "https://custom.statenet.com/public/resources.cgi?id=ID:bill:SD2024000H1095\u0026ciq=ncsl\u0026client_md=6504d286816981521412865740d6a7d7\u0026mode=current_text",
+                        "https://sdlegislature.gov/Statutes/Session_Laws/Chapter/7896",
+                        "https://sdlegislature.gov/Statutes/32-41"
+                    ]
+    },
+    {
+        "state":  "Tennessee",
+        "statute":  "Yes",
+        "regulation":  "No",
+        "status":  "Driverless ADS operation is allowed on public streets and highways, subject to statutory safety and registration requirements.",
+        "bill":  "S. B 151",
+        "year":  "2017",
+        "sponsor":  "Sen. Jon Lundberg",
+        "committee":  "SENATE Committee on TRANSPORTATION AND SAFETY",
+        "act":  "2017 Tenn. Pub. Acts, ch. 474 — Automated Vehicles Act",
+        "code":  "Tenn. Code Ann. §§ 55-30-101–55-30-108",
+        "driver":  "Driverless allowed Under § 55-30-103,",
+        "liability":  "No special AV-specific minimum amount is established. Section 55-30-108 subjects ADS vehicles to the same financial-responsibility requirements as conventional vehicles under Tenn. Code Ann. § 55-12-102.",
+        "commercial":  "Allowed. Tenn. Code Ann. § 55-30-108 expressly includes the commercial use of ADS-operated vehicles within the operations authorized and governed by the Automated Vehicles Act.",
+        "procedure":  "Tenn. Code Ann. § 55-30-103 requires a Tennessee-registered ADS-operated vehicle to be identified as such on its registration.",
+        "sources":  [
+                        "Tennessee Code Title 55, Chapter 30 (2024) - AUTOMATED VEHICLES ACT :: 2024 Tennessee Code :: U.S. Codes and Statutes :: U.S. Law :: Justia"
+                    ]
+    },
+    {
+        "state":  "Texas",
+        "statute":  "Yes",
+        "regulation":  "Yes. Title 43 Tex. Admin. Code, Part 10, Chapter 220, Automated Motor Vehicles",
+        "status":  "",
+        "bill":  "S.B 2205",
+        "year":  "2017",
+        "sponsor":  "Sen. Kelly Hancock",
+        "committee":  "SENATE Committee on TRANSPORTATION",
+        "act":  "2017 Tex. Gen. Laws, ch. 973",
+        "code":  "Tex. Transp. Code §§ 545.451–545.459",
+        "driver":  "Driverless allowed, Tex. Transp. Code §§ 545.454(c) and 545.455(a).",
+        "liability":  "No separate AV-specific amount. The vehicle must maintain liability insurance or self-insurance in the amount otherwise required under Texas law for that vehicle’s type and use. Tex. Transp. Code § 545.455(b)(6).",
+        "commercial":  "Allowed with authorization. Tex. Transp. Code § 545.456 requires a person to apply to the Texas Department of Motor Vehicles for authorization before transporting passengers or property in furtherance of a commercial enterprise without a human driver.",
+        "procedure":  "No separate general AV operating permit",
+        "sources":  [
+                        "https://texas-sos.appianportalsgov.com/rules-and-meetings?chapter=220\u0026interface=VIEW_TAC\u0026part=10\u0026title=43",
+                        "TRANSPORTATION CODE CHAPTER 545. OPERATION AND MOVEMENT OF VEHICLES",
+                        "SB2205.pdf"
+                    ]
+    },
+    {
+        "state":  "Utah",
+        "statute":  "Yes",
+        "regulation":  "No separate",
+        "status":  "Driverless operation is allowed for qualifying Level 4 and Level 5 ADS vehicles, subject to Utah Code Title 41, Chapter 26 requirements.",
+        "bill":  "H.B 101",
+        "year":  "2019",
+        "sponsor":  "Rep. Robert M. Spendlove",
+        "committee":  "HOUSE Committee on RULES",
+        "act":  "2019 Utah Laws, Chapter 459",
+        "code":  "Utah Code §§ 41-26-102.1–41-26-108",
+        "driver":  "Driverless allowed. Level 4 or Level 5 ADS vehicles may operate in driverless operation if they satisfy Utah Code § 41-26-103.",
+        "liability":  "No separate AV-specific dollar amount. Before an ADS operates on a Utah highway, the owner must ensure the vehicle complies with Utah’s Financial Responsibility of Motor Vehicle Owners and Operators Act, Utah Code Title 41, Chapter 12a. Utah Code § 41-26-107(3)",
+        "commercial":  "Allowed. An on-demand autonomous vehicle network may operate under Utah laws governing for-hire ground transportation, including transportation-network companies and other applicable passenger carriers. Utah Code § 41-26-106.",
+        "procedure":  "No separate general AV permit is specified. The vehicle must satisfy § 41-26-103, be properly titled and registered, and comply with applicable financial-responsibility requirements under § 41-26-107.",
+        "sources":  [
+                        "Bill Resource",
+                        "HB0101",
+                        "Utah Code Chapter 41-26"
+                    ]
+    },
+    {
+        "state":  "Vermont",
+        "statute":  "Yes",
+        "regulation":  "No separate AV-specific administrative regulation identified; Vermont uses statutory permit requirements plus agency guidance/application materials",
+        "status":  "Automated vehicle testing is allowed only with a permit approved by the Vermont Traffic Committee. General fully driverless deployment is not expressly authorized.",
+        "bill":  "S.B.149",
+        "year":  "2019",
+        "sponsor":  "Senate Committee on Transportation — committee bill",
+        "committee":  "SENATE Committee on FINANCE",
+        "act":  "2019 Acts and Resolves No. 60",
+        "code":  "Title 23 V.S.A. §§ 4201–4203, Chapter 41 — Automated Vehicle Testing",
+        "driver":  "Safety driver required. During public-road testing, the operator must be seated in the driver’s seat, monitor the vehicle, and be capable of taking immediate manual control. 23 V.S.A. § 4203",
+        "liability":  "The tester must provide proof of liability insurance, self-insurance, or a surety bond of at least $5 million for bodily injury, death, or property damage arising from AV testing. 23 V.S.A. § 4203.",
+        "commercial":  "Not authorized. Vermont Chapter 41 authorizes only permitted testing of automated vehicles on public highways, not general commercial deployment.",
+        "procedure":  "Obtain an automated-vehicle testing permit from the Vermont Traffic Committee. The application must define the test scope and operational design domain; a public hearing is required; vehicles must be registered, 23 V.S.A. § 4203.",
+        "sources":  [
+                        "Bill Resource",
+                        "Draft Bill Template",
+                        "Motor Vehicles"
+                    ]
+    },
+    {
+        "state":  "Virginia",
+        "statute":  "No",
+        "regulation":  "NA",
+        "status":  "NA",
+        "bill":  "NA",
+        "year":  "NA",
+        "sponsor":  "NA",
+        "committee":  "NA",
+        "act":  "NA",
+        "code":  "NA",
+        "driver":  "NA",
+        "liability":  "NA",
+        "commercial":  "NA",
+        "procedure":  "NA",
+        "sources":  [
+
+                    ]
+    },
+    {
+        "state":  "Washington",
+        "statute":  "Yes",
+        "regulation":  "No AV-specific administrative regulation",
+        "status":  "Autonomous vehicles may be tested on Washington public roads, with or without a human operator, after the testing entity completes DOL self-certification and satisfies statutory insurance, reporting, and law-enforcement notification requirements. (Wash. Rev. Code §§ 46.92.010 and 46.30.050)",
+        "bill":  "H. B. 2676 (2019)",
+        "year":  "2019",
+        "sponsor":  "Rep. Shelley Kloba",
+        "committee":  "HOUSE Committee on TRANSPORTATION.",
+        "act":  "Chapter 182, Laws of 2020; amended by Chapter 193, Laws of 2021",
+        "code":  "Wash. Rev. Code §§ 46.92.010 and 46.30.050",
+        "driver":  "Driverless testing allowed through the DOL self-certification pilot program, subject to Executive Order 17-02 and statutory requirements.",
+        "liability":  "exsting entity must hold an umbrella liability insurance policy of at least $5 million per occurrence and maintain proof with DOL. — RCW 46.30.050(1)",
+        "commercial":  "",
+        "procedure":  "",
+        "sources":  [
+
+                    ]
+    },
+    {
+        "state":  "West Virginia",
+        "statute":  "Yes",
+        "regulation":  "No AV-specific administrative regulation",
+        "status":  "Fully autonomous vehicles may operate on public roads, including without a human driver, if statutory requirements are met.",
+        "bill":  "H. B. 4787 (2022)",
+        "year":  "2022",
+        "sponsor":  "Del. Moore Capito",
+        "committee":  "HOUSE Committee on JUDICIARY",
+        "act":  "Chapter 17H. Fully Autonomous Vehicle Act",
+        "code":  "W. Va. Code §§ 17H-1-1 through 17H-1-15",
+        "driver":  "Driverless allowed. No human driver is required while the ADS is engaged, provided the vehicle meets §17H-1-5 requirements.",
+        "liability":  "Before driverless operation, submit proof to the DMV that the vehicle has insurance or self-insurance satisfying applicable West Virginia law. The AV statute does not establish a separate dollar amount. See W. Va. Code § 17H-1-10.",
+        "commercial":  "Allowed. Fully autonomous commercial and motor-carrier vehicles may operate under applicable state and federal commercial-vehicle laws, except requirements applicable only to human drivers; school buses are excluded. On-demand autonomous passenger networks are expressly permitted under applicable transportation-for-hire laws. See W. Va. Code §§ 17H-1-7 and 17H-1-8.",
+        "procedure":  "Before operating without a human driver, submit a law-enforcement interaction plan to WVDOT under W. Va. Code §17H-1-5(b), and submit proof of insurance or self-insurance satisfactory to the DMV under §17H-1-10.",
+        "sources":  [
+                        "https://law.justia.com/codes/west-virginia/chapter-17h/article-1/",
+                        "https://custom.statenet.com/public/resources.cgi?id=ID:bill:WV2022000H4787\u0026ciq=ncsl\u0026client_md=06771c317cf5dade085f31b7c3668e12\u0026mode=current_text"
+                    ]
+    },
+    {
+        "state":  "Wisconsin",
+        "statute":  "No",
+        "regulation":  "No AV-specific administrative regulation",
+        "status":  "Automated-vehicle operation and testing are allowed only when a licensed human operator remains behind the wheel and in physical control",
+        "bill":  "NA",
+        "year":  "NA",
+        "sponsor":  "NA",
+        "committee":  "NA",
+        "act":  "NA",
+        "code":  "NA",
+        "driver":  "Licensed operator must be behind the wheel and in physical control; driverless operation is not allowed",
+        "liability":  "No AV-specific amount",
+        "commercial":  "Fully driverless commercial deployment is not authorized",
+        "procedure":  "",
+        "sources":  [
+                        "​​​Rules of the Road - Legal Status of CAV in Wisconsin"
+                    ]
+    },
+    {
+        "state":  "Wyoming",
+        "statute":  "No",
+        "regulation":  "No AV-specific administrative regulation",
+        "status":  "WYDOT and the Wyoming Highway Patrol maintain a voluntary reporting system for manufacturers conducting ADS vehicle testing in Wyoming. Manufacturers are asked to notify the Highway Patrol before testing, and all testing must comply with applicable state vehicle and safety-driver requirements.",
+        "bill":  "NA",
+        "year":  "NA",
+        "sponsor":  "NA",
+        "committee":  "NA",
+        "act":  "NA",
+        "code":  "NA",
+        "driver":  "A licensed operator must be behind the wheel and in physical control; driverless operation is not expressly authorized.",
+        "liability":  "No AV-specific amount",
+        "commercial":  "Fully driverless commercial deployment is not authorized",
+        "procedure":  "",
+        "sources":  [
+
+                    ]
+    }
+]

@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="description" content="An interactive state-by-state overview of U.S. automated vehicle regulation." />
+    <title>Automated Vehicle Regulation Across the United States</title>
+    <link rel="stylesheet" href="styles.css" />
+    <script src="script.js" defer></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#main-content">Skip to content</a>
+    <header class="site-header">
+      <a class="wordmark" href="#top" aria-label="RAV Policy Atlas home"><span class="wordmark-mark">RAV</span><span>Policy Atlas</span></a>
+      <p>Regulatory framework &amp; policy analysis</p>
+      <a class="header-link" href="#regulation-table">Explore the data <span aria-hidden="true">↓</span></a>
+    </header>
+
+    <main id="main-content">
+      <article id="top" class="paper-header">
+        <div class="eyebrow">Research brief · Task 1.2 · 2026</div>
+        <h1>Regulatory Frameworks for Automated Vehicles Across the United States</h1>
+        <p class="dek">A comparative atlas of state statutes, regulations, deployment pathways, and operating requirements.</p>
+        <div class="byline-row">
+          <div><span class="byline-label">Author</span><p class="author">Xinyang Du<sup>1</sup></p></div>
+          <div class="paper-meta"><span class="byline-label">Affiliation</span><p><sup>1</sup> Regulatory Framework and Policy Analysis, RAV Task 1.2</p></div>
+        </div>
+        <div class="abstract-grid">
+          <h2>Abstract</h2>
+          <p>Public-road deployment of automated vehicles depends on both technical readiness and a clear legal pathway. This brief separates the federal role in vehicle safety from state authority over road use, then translates a 50-state regulation inventory into an interactive research tool. Select a state to review its current legal posture, driver requirements, liability framework, commercial deployment rules, and cited authorities.</p>
+        </div>
+      </article>
+
+      <nav class="contents" aria-labelledby="contents-title">
+        <div><span class="section-kicker">Contents</span><h2 id="contents-title">Navigate the brief</h2></div>
+        <ol>
+          <li><a href="#responsibilities"><span>01</span> Federal and state roles</a></li>
+          <li><a href="#state-explorer"><span>02</span> Interactive state atlas</a></li>
+          <li><a href="#regulation-table"><span>03</span> Regulation index</a></li>
+          <li><a href="#notes"><span>04</span> Notes and sources</a></li>
+        </ol>
+      </nav>
+
+      <section id="responsibilities" class="section responsibilities">
+        <div class="section-heading"><span class="section-number">01</span><div><span class="section-kicker">Shared governance</span><h2>One technology, two layers of responsibility</h2></div></div>
+        <p class="section-lead">The U.S. framework divides oversight between a national vehicle-safety system and state control of licensing, road use, testing, and deployment. The boundary is deliberate: federal agencies establish a consistent safety baseline, while states determine how automated vehicles enter and operate within their transportation systems.</p>
+        <div class="role-grid">
+          <article class="role-card federal-card">
+            <span class="role-label">Federal responsibility</span>
+            <h3>Safety of the vehicle and automated driving system</h3>
+            <p>The U.S. Department of Transportation sets national policy direction, while the National Highway Traffic Safety Administration oversees motor-vehicle safety. Federal tools include performance standards, manufacturer guidance, compliance and defect investigations, exemptions, recalls, and crash-reporting requirements.</p>
+            <ul><li>Vehicle design, construction, and performance</li><li>Federal Motor Vehicle Safety Standards compliance</li><li>Safety defects, recalls, and incident reporting</li><li>National guidance for automated driving systems</li></ul>
+          </article>
+          <article class="role-card state-card">
+            <span class="role-label">State responsibility</span>
+            <h3>Authorization and operation on public roads</h3>
+            <p>States govern the legal and administrative conditions of road use. Their frameworks may define an automated driving system as the driver, require a human safety operator, authorize driverless testing, set insurance thresholds, or establish application and law-enforcement interaction procedures.</p>
+            <ul><li>Driver licensing and vehicle registration</li><li>Traffic laws and enforcement</li><li>Testing and deployment authorization</li><li>Insurance, liability, and operating procedures</li></ul>
+          </article>
+        </div>
+        <aside class="definition-strip" aria-label="Key regulatory definitions">
+          <div><strong>ADS</strong><span>Automated driving system, generally SAE Levels 3–5</span></div>
+          <div><strong>DDT</strong><span>Dynamic driving task: steering, braking, monitoring, and response</span></div>
+          <div><strong>ODD</strong><span>Operating conditions within which the system is designed to function</span></div>
+        </aside>
+      </section>
+
+      <section id="state-explorer" class="section explorer-section">
+        <div class="section-heading light-heading"><span class="section-number">02</span><div><span class="section-kicker">Interactive atlas</span><h2>Select a state. Read its regulatory pathway.</h2></div></div>
+        <div class="explorer-toolbar">
+          <p>Choose a state on the map or jump to a demonstration state.</p>
+          <div class="focus-links" aria-label="Demonstration states"><button type="button" data-state-shortcut="Georgia">Georgia</button><button type="button" data-state-shortcut="Oklahoma">Oklahoma</button><button type="button" data-state-shortcut="Wisconsin">Wisconsin</button></div>
+        </div>
+        <div class="explorer-grid">
+          <div class="map-card">
+            <div id="map" class="map-mount" aria-label="Interactive map of U.S. states"><p class="loading-copy">Loading state map…</p></div>
+            <div class="map-legend" aria-label="Map legend"><span><i class="legend-dot driverless"></i>Driverless authorized</span><span><i class="legend-dot testing"></i>Testing or conditional operation</span><span><i class="legend-dot limited"></i>Limited or no comprehensive framework</span></div>
+            <p class="map-credit">Map geometry adapted from <a href="https://github.com/kaldari/SVG-map-maker" target="_blank" rel="noreferrer">SVG-map-maker</a> (MIT).</p>
+          </div>
+          <article id="state-detail" class="state-detail" aria-live="polite">
+            <div class="detail-header">
+              <div><span id="detail-category" class="status-pill">State profile</span><h3 id="detail-state">Georgia</h3></div>
+              <label class="state-jump"><span>Jump to state</span><select id="map-state-select" aria-label="Select a state for the map detail"></select></label>
+            </div>
+            <p id="detail-status" class="detail-status">Loading regulation profile…</p>
+            <dl class="detail-list">
+              <div><dt>Original bill</dt><dd id="detail-bill">—</dd></div><div><dt>Enacted act</dt><dd id="detail-act">—</dd></div><div><dt>Current code</dt><dd id="detail-code">—</dd></div><div><dt>Driver requirement</dt><dd id="detail-driver">—</dd></div><div><dt>Liability</dt><dd id="detail-liability">—</dd></div><div><dt>Commercial deployment</dt><dd id="detail-commercial">—</dd></div>
+            </dl>
+            <details class="more-detail">
+              <summary>Procedure, regulation, and sources</summary>
+              <div class="more-detail-grid"><div><h4>Administrative regulation</h4><p id="detail-regulation">—</p></div><div><h4>Procedure</h4><p id="detail-procedure">—</p></div><div><h4>Workbook sources</h4><div id="detail-sources" class="source-list">—</div></div></div>
+            </details>
+          </article>
+        </div>
+      </section>
+
+      <section id="regulation-table" class="section table-section">
+        <div class="section-heading"><span class="section-number">03</span><div><span class="section-kicker">Regulation index</span><h2>Browse the underlying state records</h2></div></div>
+        <div class="table-intro">
+          <p>Filter the inventory by state and legal instrument. Each row connects a bill, enacted act, or current code citation to the state’s broader legal posture.</p>
+          <div class="dataset-stats" aria-label="Dataset summary"><div><strong id="stat-states">50</strong><span>states</span></div><div><strong id="stat-statutes">—</strong><span>with AV statutes</span></div><div><strong id="stat-driverless">—</strong><span>driverless pathways</span></div></div>
+        </div>
+        <div class="filter-bar">
+          <label><span>State</span><select id="state-filter"><option value="all">All states</option></select></label>
+          <label><span>Instrument</span><select id="type-filter"><option value="all">Bill, Act &amp; Code</option><option value="Bill">Bill</option><option value="Act">Act</option><option value="Code">Code</option></select></label>
+          <p id="result-count" class="result-count">Loading records…</p>
+        </div>
+        <div class="table-wrap"><table><thead><tr><th scope="col">State</th><th scope="col">Type</th><th scope="col">Citation or instrument</th><th scope="col">Year</th><th scope="col">Current legal status</th></tr></thead><tbody id="regulation-rows"><tr><td colspan="5" class="empty-row">Loading regulation data…</td></tr></tbody></table></div>
+      </section>
+
+      <section id="notes" class="notes-section">
+        <div><span class="section-kicker">04 · Notes</span><h2>Scope and use</h2></div>
+        <p>This site formats the research supplied in <em>RAV-Task1.2-50states.xlsx</em> and the accompanying Task 1.2 report. It is a research overview, not legal advice. Regulatory status can change; consult the cited state authority before making operational or compliance decisions.</p>
+      </section>
+    </main>
+    <footer><p><strong>RAV Policy Atlas</strong> · Regulatory Framework and Policy Analysis</p><a href="#top">Back to top <span aria-hidden="true">↑</span></a></footer>
+  </body>
+</html>
