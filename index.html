@@ -4,7 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="theme-color" content="#fe5c00" />
-    <meta name="description" content="An interactive state-by-state overview of U.S. automated vehicle regulation." />
+    <meta name="description" content="A four-group, state-by-state overview of U.S. automated vehicle regulation." />
     <title>RAV Regulation Framework and Regulation Analysis</title>
     <link rel="stylesheet" href="styles.css" />
     <script src="script.js" defer></script>
@@ -98,13 +98,13 @@
       <section id="state-explorer" class="section explorer-section">
         <div class="section-heading light-heading"><span class="section-number">03</span><div><span class="section-kicker">Interactive map</span><h2>Select a state. Read its regulatory pathway.</h2></div></div>
         <div class="explorer-toolbar">
-          <p>Choose a state on the map or jump to a demonstration state.</p>
+          <p>States are grouped by their highest level of AV authority. Choose a state on the map or jump to a demonstration state.</p>
           <div class="focus-links" aria-label="Demonstration states"><button type="button" data-state-shortcut="Wisconsin">Wisconsin</button><button type="button" data-state-shortcut="Oklahoma">Oklahoma</button><button type="button" data-state-shortcut="Georgia">Georgia</button></div>
         </div>
         <div class="explorer-grid">
           <div class="map-card">
-            <div id="map" class="map-mount" aria-label="Interactive map of U.S. states"><p class="loading-copy">Loading state map…</p></div>
-            <div class="map-legend" aria-label="Map legend"><span><i class="legend-dot driverless"></i>Driverless authorized</span><span><i class="legend-dot testing"></i>Testing or conditional operation</span><span><i class="legend-dot limited"></i>Limited or no comprehensive framework</span></div>
+            <div id="map" class="map-mount" aria-label="Interactive four-group map of U.S. states"><p class="loading-copy">Loading state map…</p></div>
+            <div class="map-legend" aria-label="Four-group map legend"><span><i class="legend-dot group-a"></i><b>Group A</b> No AV-specific framework (17)</span><span><i class="legend-dot group-b"></i><b>Group B</b> In-vehicle safety driver required (4)</span><span><i class="legend-dot group-c"></i><b>Group C</b> Noncommercial driverless operation (6)</span><span><i class="legend-dot group-d"></i><b>Group D</b> Commercial driverless deployment (23)</span></div>
             <p class="map-credit">Map geometry adapted from <a href="https://github.com/kaldari/SVG-map-maker" target="_blank" rel="noreferrer">SVG-map-maker</a> (MIT).</p>
           </div>
           <article id="state-detail" class="state-detail" aria-live="polite">
@@ -139,7 +139,7 @@
         <div class="section-heading"><span class="section-number">05</span><div><span class="section-kicker">Regulation index</span><h2>Browse the underlying state records</h2></div></div>
         <div class="table-intro">
           <p>Filter the inventory by state and legal instrument. Each row connects a bill, enacted act, or current code citation to the state’s broader legal posture.</p>
-          <div class="dataset-stats" aria-label="Dataset summary"><div><strong id="stat-states">50</strong><span>states</span></div><div><strong id="stat-statutes">—</strong><span>with AV statutes</span></div><div><strong id="stat-driverless">—</strong><span>driverless pathways</span></div></div>
+          <div class="dataset-stats" aria-label="Four-group state summary"><div class="group-stat group-a"><strong id="stat-group-a">17</strong><span>Group A</span></div><div class="group-stat group-b"><strong id="stat-group-b">4</strong><span>Group B</span></div><div class="group-stat group-c"><strong id="stat-group-c">6</strong><span>Group C</span></div><div class="group-stat group-d"><strong id="stat-group-d">23</strong><span>Group D</span></div></div>
         </div>
         <div class="filter-bar">
           <label><span>State</span><select id="state-filter"><option value="all">All states</option></select></label>
