@@ -58,3 +58,6 @@ yarn-error.log*
 /postcss.config.mjs
 /tsconfig.json
 /vite.config.ts
+
+*.xlsx
+*.docx

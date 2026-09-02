@@ -2,6 +2,10 @@
 
 A static GitHub Pages template for exploring automated-vehicle regulation across all 50 states.
 
+Live site: https://xinyangdu0210.github.io/RAV-regulation/
+
+Current release: Version 1.0 (September 2, 2026)
+
 ## Publish
 
 1. Push this folder to a GitHub repository on the `main` branch.
